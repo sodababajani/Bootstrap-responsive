@@ -213,3 +213,35 @@ body{
   background-color: var(--purpule);
   margin-top: 57px;
 }
+.four-section-p{
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 65.63px;
+  margin-top: 129px;
+}
+.five-section-p1{
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 56.25px;
+  margin-left: 148px;
+  margin-top: 67px;
+}
+.five-section-p2{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  margin-left: 148px;
+  margin-top: 32px;
+}
+.img-sixth-section{
+  width: 196px;
+  height: 154px;
+  margin-left: 972px;
+}
+.img2-sixth-section{
+  width: 1146px;
+  height: 462px;
+  border-radius: 5px;
+  left: 148px;
+  top: -100px;
+}
