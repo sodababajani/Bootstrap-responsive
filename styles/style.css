@@ -6,6 +6,9 @@ body{
     padding: 0;
     margin: 0;
   }
+  .main{
+    background-color: var(--purpule);
+  }
   :root{
     --black-700: #000;
     --purpule:#3B2A9F;
@@ -83,4 +86,130 @@ body{
   font-weight: 400;
   font-size: 13px;
   line-height: 19.5px;
+}
+.first-section-left{
+  width: 527px;
+  height: 510px;
+  margin-top: 203px;
+  margin-left: 147px;
+  background-color: var(--purpule);
+}
+#first-section-left-p1{
+  width: 273px;
+  height: 31px;
+  left: 147px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 31.04px;
+  color: #FA8305;
+}
+#first-section-left-p2{
+  width: 479.63px;
+  height: 234px;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 77.6px;
+  color: #ffffff;
+  margin-top: 17px;
+  margin-bottom: 26px;
+}
+#first-section-left-p3{
+  width: 527px;
+  height: 101px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: #ffffff;
+  margin-top: 26px;
+  margin-bottom: 28px;
+}
+.getmore{
+  width: 195px;
+  height: 53px;
+  margin-top: 48px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color:var(--white);
+  background-color: var(--secondary);
+  border: 1px solid var(--secondary);
+  border-radius: 40px;
+}
+.first-section-right #image1{
+  width: 806px;
+  height: 761px;
+  margin-left: 36px;
+}
+.unity{
+  width: 96px;
+  height: 30px;
+  top: 409px;
+  left: 610px;
+  right: 27px;
+}
+.cry{
+  width: 101px;
+  height: 99px;
+  top: 202px;
+  left: 828px;
+}
+.unreal{
+  width: 59px;
+  height: 64px;
+  top: 218px;
+  left: 1168px;
+}
+#seconde-section-p1{
+  font-weight: 700;
+  font-size: 31px;
+  line-height: 58.13px;
+  margin-left: 148px;
+  margin-top: 150px;
+  color:var(--white);
+}
+#seconde-section-button{
+  width: 139px;
+  height: 57px;
+  border-radius: 10px;
+  background-color: var(--primary2-100);
+  border: 1px solid var(--primary2-100);
+  color:var(--white);
+  font-weight: 500px;
+  font-size: 20px;
+  line-height: 37.5px;
+  margin-top: 150px;
+}
+.threed-section-card{
+  width: 251px;
+  
+  background-color: var(--purpule);
+  margin-left: 148px;
+  margin-top: 57px;
+}
+.threed-section-img{
+  width: 251px;
+  height: 277px;
+  border-radius: 20px;
+}
+.fire-img{
+  width: 25px;
+ height: 25px;
+}
+
+.card-body:hover >img{
+  -ms-transform: scale(2);
+  transform: scale(2);
+}
+.card-text{
+  width: 136px;
+  height: 41px;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 41.25px;
+  color: var(--white);
+}
+.threed-section-card1{
+  width: 251px;
+  background-color: var(--purpule);
+  margin-top: 57px;
 }
